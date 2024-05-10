@@ -4,6 +4,7 @@ A data pipeline to extract batch numbers, ingredient information, and weight per
 
 
 
+
 1. Merge PDFs of choice (if needed)
 
 2. Install required libraries
@@ -11,11 +12,8 @@ A data pipeline to extract batch numbers, ingredient information, and weight per
 3. Follow jupyter script to extract batch number and composition table from batch records
 
 4. For keywords matching:
-
-a) No further steps required
+   a) No further steps required
 
 5. For spaCy:
-
-a) If using model binaries, follow jupyter script and complete post processing
-
-b) If you want further training, split the data into train and test and use a labelling tool, then train model and complete post processing
+   a) If using model binaries, follow jupyter script and complete post processing
+   b) If you want further training, split the data into train and test and use a labelling tool, then train model and complete post processing
