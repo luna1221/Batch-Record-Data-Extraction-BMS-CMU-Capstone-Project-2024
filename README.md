@@ -1,4 +1,4 @@
-# luna1221-BMS-CMU-Capstone-Project-2024-Batch-Record-Data-Extraction
+# BMS-CMU-Capstone-Project-2024-Batch-Record-Data-Extraction
 
 A data pipeline to extract batch numbers, ingredient information, and weight percentages from composition tables in scanned documents.
 
